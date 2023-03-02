@@ -1,0 +1,21 @@
+.app {
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 100px;
+}
+
+.questions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.question-box {
+  background-color: blue;
+  margin: 16px;
+  color: white;
+  border-radius: 10px;
+  padding: 0 40px 10px 40px;
+}
